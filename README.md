@@ -1,5 +1,5 @@
 # 20120 B77 Balanced I/O
-_strangelove audio_
+_strangelove audio hardware design_
 
 +4dBu balanced input and output modification for Revox B77 tape recorders
 
