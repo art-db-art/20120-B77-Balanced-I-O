@@ -1,9 +1,9 @@
 # 20120 B77 Balanced I/O
 _strangelove audio hardware design_
 
-+4dBu balanced input and output modification for Revox B77 tape recorders
++4dBu balanced input and output modification for Revox B77 tape recorders.
 
-Project ID on printed circuit boards is **20-12.01.00**
+Project ID on printed circuit boards is **20-12.01.00**, title is "+4dBu balanced I/O for Revox B77".
 
 ### Description:
 PCB mounted on some B77 decks that underwent full restauration by strangelove audio. The PCB replaces the original RCA connectors with TRS jacks and provides balanced inputs and outputs at a +4dBu nominal signal level. The internal nominal level remains 0dB.
